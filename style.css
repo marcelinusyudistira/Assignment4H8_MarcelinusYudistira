@@ -1,0 +1,49 @@
+.kartu{
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+.card {
+    width: 80%;
+    box-shadow: 0 0px 20px 0 rgba(0,0,0,0.1);
+}
+
+.card.bg-primary {
+    background-color: rgba(185, 255, 86, 0.2)!important;
+}
+
+body{
+    margin-bottom: 100px;
+}
+
+.card-body{
+    padding: 2px!important;
+}
+
+.card.bg-red {
+    background-color: rgba(255, 96, 96, 0.2)!important;
+}
+
+.card.bg-green {
+    background-color: rgba(90, 255, 140, 0.2)!important;
+}
+
+.card.bg-yellow {
+    background-color: rgba(196, 255, 59, 0.2)!important;
+}
+
+.card.bg-blue {
+    background-color: rgba(83, 103, 255, 0.2)!important;
+}
+
+.card.bg-blue2 {
+    background-color: rgba(70, 255, 230, 0.2)!important;
+}
+
+.card.bg-coklat {
+    background-color: rgba(255, 180, 52, 0.2)!important;
+}
+
+
+
+ 
